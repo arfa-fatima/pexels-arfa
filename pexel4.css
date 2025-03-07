@@ -90,14 +90,6 @@
     font-weight: bold;
     font-size: medium;
 }
-a{
-    padding: 30px;
-    text-decoration: none;
-    color: black;
-    align-items: center;
-    font-size: 130%;
-    border-radius: 50px;
-}
 #dots{
     color: black;
     font-size: 15px;
